@@ -19,13 +19,14 @@ body {
   width: 100%;
   padding: 18px;
   font-size: 24px;
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
   text-align: right;
   border-radius: 12px;
   border: none;
-  background: white;        /* WHITE SCREEN */
+  background: white;
   color: black;
   font-weight: bold;
+  box-sizing: border-box;
 }
 
 .buttons {
