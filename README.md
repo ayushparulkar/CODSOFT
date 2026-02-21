@@ -1,2 +1,16 @@
-# CODSOFT
-Responsive Personal Portfolio Website built using HTML, CSS, and JavaScript for the CodSoft Web Development Internship (Level 1). Features include About, Skills, Projects, Resume download, and Contact sections with a modern and responsive UI.
+# Personal Portfolio Website
+
+This project is a responsive personal portfolio website developed as part of the CodSoft Web Development Internship (Level 1).
+
+## 🚀 Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## ✨ Features
+- Responsive design
+- Modern UI
+- About, Skills, Projects, Resume and Contact sections
+
+## 👨‍💻 Author
+Arpit
